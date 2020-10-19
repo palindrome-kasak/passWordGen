@@ -1,0 +1,2 @@
+# passWordGen
+ genrate password
